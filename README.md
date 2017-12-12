@@ -42,41 +42,9 @@
 - 區塊鏈（Blockchain）
     - Frontend
     - Backend
-    - SRE
 - 分佈式監控系統（Distributed Monitoring System）
     - Frontend
     - Backend
-    - SRE
-
-###### 【產品經理 - CDN 監控系統】
-
-**工作內容**：
-
-- 明確定義產品需求，編寫主要使用場景的產品用例
-- 持續進行使用者訪談與分析等工作，對產品開發進行快速迭代
-- 跨產品線協調資源，確保研發/設計/運維資源的投入產出比，跟進專案進度和質量
-- 製作產品原型，把握產品細節，確保監控系統的易用性與可用性
-- 對接研發/設計/運維人員，制定產品開發時程與上線策略
-- 跟蹤優化、整理使用者反饋，對使用行為進行統計分析，相應地制定版本優化計劃並跟進實施
-
-
-**基本要求**：
-
-- 三年以上計算機領域的研發或產品經理工作經驗
-- 樂觀、開朗，具備較強的團隊管理能力及抗壓能力，有一定的人格魅力
-- 具有出色的資料分析能力，能透過系統收集的數據進行有效決策及時解決問題
-- 擁有針對需求做分析->過濾->拆解->抽象->歸納、積累業務要素，進一步提煉產品的能力（i.e., [Computational Thinking](http://blog.orangeapple.tw/posts/what-is-computational-thinking/)）
-- 善於使用使用者訪談、場景分析、人物誌設計法、A/B Testing 或其他專業分析手段
-- 能夠撰寫高質量的產品需求與用例文檔，精通產品原型工具的使用
-- 具有良好的溝通與協調能力，能夠有效地把控產品進度，熟悉敏捷式開發迭代方式
-
-**加分項目**：
-
-- 三年以上產品經理工作經驗，並可提供實際可用的產品案例，有 CDN 領域相關經驗者優先
-- 有跨國團隊合作開發經驗，出色的水平溝通與協調能力
-- 精通產品原型設計工具的使用，如：Sketch, InVision, Axure
-- 優秀的產品規劃能力、理解能力、創新能力，開闊的思維能力，良好的溝通、與協調能力
-- 對 CDN 業務或運維工作有深入理解，有能力制定監控系統的操作流程規範
 
 ### 聯絡我們
 
@@ -92,10 +60,7 @@
 - Github 帳號
 - LinkedIn 帳號
 
-公司地址：台北市忠孝東路一段 9 號 5 樓
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.678407538733!2d121.5213585151214!3d25.044985583967204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a9704137ac27%3A0x8463639876cf2714!2zMTAw5Y-w5YyX5biC5Lit5q2j5Y2A5b-g5a2d5p2x6Lev5LiA5q61OeiZnw!5e0!3m2!1szh-TW!2stw!4v1489674526243" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-[註]: 此篇文章的圖片來源於 [Life at Google](http://www.google.com/about/careers/lifeatgoogle/fantastic-google-office.html)。
+公司地址：台北市忠孝東路一段 9 號 5 樓 [Google Map](https://www.google.com.tw/maps/place/100%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%B8%80%E6%AE%B59%E8%99%9F/@25.0449904,121.5213585,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a9704137ac27:0x8463639876cf2714!8m2!3d25.0449856!4d121.5235472?hl=zh-TW)
 
 
-104 Jobs: https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=603c446d3638406932343c653a40381b82b2b2b2742385a2664j48
+[104 Jobs](https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=603c446d3638406932343c653a40381b82b2b2b2742385a2664j48)
